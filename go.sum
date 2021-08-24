@@ -1,0 +1,4 @@
+github.com/tbxark/g4vercel v0.0.4 h1:KJGsz0/tarMKwEQbBlToAvcUTvPU5XMz1NJ7WpgwHAw=
+github.com/tbxark/g4vercel v0.0.4/go.mod h1:ixnfFruSriTYP/dZ+GxB/hkYMOhmozYkEZ780Ws2Hhk=
+gopkg.in/vansante/go-ffprobe.v2 v2.0.3 h1:nmR7yLalb5p5UmXhXUYnrsIkbb8j7h2OYMDoLETCQ5U=
+gopkg.in/vansante/go-ffprobe.v2 v2.0.3/go.mod h1:qF0AlAjk7Nqzqf3y333Ly+KxN3cKF2JqA3JT5ZheUGE=
